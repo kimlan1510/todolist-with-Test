@@ -1,0 +1,8 @@
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\bin\Debug\netcoreapp1.1\TodoList.deps.json
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\bin\Debug\netcoreapp1.1\TodoList.runtimeconfig.json
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\bin\Debug\netcoreapp1.1\TodoList.runtimeconfig.dev.json
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\bin\Debug\netcoreapp1.1\TodoList.dll
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\obj\Debug\netcoreapp1.1\TodoList.AssemblyInfo.cs
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\bin\Debug\netcoreapp1.1\TodoList.pdb
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\obj\Debug\netcoreapp1.1\TodoList.dll
+c:\users\bo\documents\visual studio 2017\Projects\TodoList\TodoList\obj\Debug\netcoreapp1.1\TodoList.pdb

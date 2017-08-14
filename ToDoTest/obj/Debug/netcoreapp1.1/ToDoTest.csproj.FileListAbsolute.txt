@@ -1,0 +1,14 @@
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\ToDoTest.deps.json
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\ToDoTest.runtimeconfig.json
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\ToDoTest.runtimeconfig.dev.json
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\ToDoTest.dll
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\ToDoTest.pdb
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\TodoList.dll
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\bin\Debug\netcoreapp1.1\TodoList.pdb
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\obj\Debug\netcoreapp1.1\ToDoTest.AssemblyInfo.cs
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\obj\Debug\netcoreapp1.1\ToDoTest.dll
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\obj\Debug\netcoreapp1.1\ToDoTest.pdb
+C:\Users\Bo\Documents\Visual Studio 2017\Projects\TodoList\ToDoTest\obj\Debug\netcoreapp1.1\ToDoTest.csprojResolveAssemblyReference.cache
